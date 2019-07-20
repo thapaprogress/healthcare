@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\cffd52d64b70903fd35d92a4f3272967\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\bbfb0d25bf080b5141acbb68ee100f3b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8130336a0472f72e565b1b3ddedc5741\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\7daec0db801949a3897c7ce0673441ea\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\eb7752b86004922ab89512cff2d40ca7\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\9937b449f7bc66a4a1273158a21ba195\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\80163a6de03d0e3fea793beb17fb64e3\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\f9dd0598d3e8832886c0d20e9d4cf631\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\f93315d94728da61d020300241f615c4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\501109f889f5830790b6ef5698f87589\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\64185821116cd828983edc41332212fb\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\ba95a445798e0da92294d1e8ed60e054\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\bb2f70c029070730ab480875baf1d539\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\98aa9396adf59fb866917c21e9c1c9e0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\a67b583a025acec794d3045736bd084a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\9ee24d7e5fe77f9511175478fdfa905c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\3843c700b82390144e7011fdd5b2c11a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\be296745073b8db18cd4d320927ba89c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\6cd85a351fa538959639d0dbaf210815\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\8e9a65f54a07b7c53d0a4da0cdd159a5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\7cf05ab8c4e7299327597a1deaf15b10\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\94d1f9b625789ed74e499fbaafc06b85\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3a870c8c9e430d3fcb632e2a897330b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\593a993f267269d90816c6e89b0d562d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31a3c97671372ff503300b0cc5718e5f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a45866cbb2af03bad32b013eb1234204\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8130336a0472f72e565b1b3ddedc5741\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8130336a0472f72e565b1b3ddedc5741\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.dell.carehealth.UserActivity
+ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.dell.carehealth.RegisterActivity
+ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml:19:19-51
+uses-sdk
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\cffd52d64b70903fd35d92a4f3272967\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\cffd52d64b70903fd35d92a4f3272967\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\bbfb0d25bf080b5141acbb68ee100f3b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\bbfb0d25bf080b5141acbb68ee100f3b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8130336a0472f72e565b1b3ddedc5741\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8130336a0472f72e565b1b3ddedc5741\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\7daec0db801949a3897c7ce0673441ea\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\7daec0db801949a3897c7ce0673441ea\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\eb7752b86004922ab89512cff2d40ca7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\eb7752b86004922ab89512cff2d40ca7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\9937b449f7bc66a4a1273158a21ba195\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\9937b449f7bc66a4a1273158a21ba195\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\80163a6de03d0e3fea793beb17fb64e3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\80163a6de03d0e3fea793beb17fb64e3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\f9dd0598d3e8832886c0d20e9d4cf631\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\f9dd0598d3e8832886c0d20e9d4cf631\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\f93315d94728da61d020300241f615c4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\f93315d94728da61d020300241f615c4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\501109f889f5830790b6ef5698f87589\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\501109f889f5830790b6ef5698f87589\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\64185821116cd828983edc41332212fb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\64185821116cd828983edc41332212fb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\ba95a445798e0da92294d1e8ed60e054\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\ba95a445798e0da92294d1e8ed60e054\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\bb2f70c029070730ab480875baf1d539\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\bb2f70c029070730ab480875baf1d539\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\98aa9396adf59fb866917c21e9c1c9e0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\98aa9396adf59fb866917c21e9c1c9e0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\a67b583a025acec794d3045736bd084a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\a67b583a025acec794d3045736bd084a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\9ee24d7e5fe77f9511175478fdfa905c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\9ee24d7e5fe77f9511175478fdfa905c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\3843c700b82390144e7011fdd5b2c11a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\3843c700b82390144e7011fdd5b2c11a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\be296745073b8db18cd4d320927ba89c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\be296745073b8db18cd4d320927ba89c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\6cd85a351fa538959639d0dbaf210815\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\6cd85a351fa538959639d0dbaf210815\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\8e9a65f54a07b7c53d0a4da0cdd159a5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\8e9a65f54a07b7c53d0a4da0cdd159a5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\7cf05ab8c4e7299327597a1deaf15b10\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\7cf05ab8c4e7299327597a1deaf15b10\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\94d1f9b625789ed74e499fbaafc06b85\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\94d1f9b625789ed74e499fbaafc06b85\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3a870c8c9e430d3fcb632e2a897330b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3a870c8c9e430d3fcb632e2a897330b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\593a993f267269d90816c6e89b0d562d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\593a993f267269d90816c6e89b0d562d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31a3c97671372ff503300b0cc5718e5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31a3c97671372ff503300b0cc5718e5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a45866cbb2af03bad32b013eb1234204\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a45866cbb2af03bad32b013eb1234204\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Desktop\progress\healthcare\app\src\main\AndroidManifest.xml
